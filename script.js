@@ -134,8 +134,7 @@ function imgLoader(person){
 
 }
 
-// Click Event()
-//Another comment for test
+// Click Event
 
 function finalOutput(){
 
