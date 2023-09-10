@@ -128,7 +128,7 @@ function imgLoader(person){
     let colorArr=["primary","success","warning","danger"];
     
     document.getElementById("result").setAttribute("class",`card text-bg-${colorArr[person.index]}`);
-    document.getElementById("img").src=`/Images/${imgArr[person.index]}`;
+    document.getElementById("img").src=`./Images/${imgArr[person.index]}`;
 
    
 
